@@ -2,7 +2,6 @@
 <p>Carpe Diem Shipping takes the weight of a package and determines the cheapest way to ship that package.</p>
 <p> The customer has 3 options in this flow control project:-
 <br>
-<br>
 <h4>GROUND SHIPPING</h4>
 <p>Has a small flat charge ($20) plus a rate based on the weight of the package.</p>
 
@@ -14,7 +13,7 @@
 <br>
 <br>
 
-<img>(https://depositphotos.com/71798629/stock-photo-global-shipping-concept.html)<img/>
+<img>https://depositphotos.com/71798629/stock-photo-global-shipping-concept.html<img/>
 
 <br>
 <br>
