@@ -12,13 +12,13 @@
 <li>Over 10 lb @ 14.25</li>
 
 <br>
-<p>Note: A package that weighs 8.4 pounds should cost $53.60 to ship with normal ground shipping</p>
+<p><i>Note: A package that weighs 8.4 pounds should cost $53.60 to ship with normal ground shipping</i></p>
 
-<br>
+
 <h4>B - GROUND SHIPPING PREMIUM</h4>
 <p>Has a flat charge ($125.00), but no charge for weight</p>
 
-<br>
+
 <h4>C - DRONE SHIPPING</h4>
 <p>Has no flat charge, but the rate based on weight is triple the rate of ground shipping.</p>
 
@@ -29,7 +29,7 @@
 <li>Over 10 lb @ $14.25</li>
 
 <br>
-<p>Note: A package that weighs 1.5 pounds should cost $6.75 to ship by drone</p>
+<p><i>Note: A package that weighs 1.5 pounds should cost $6.75 to ship by drone<i></p>
 
 <br>
 <br>
