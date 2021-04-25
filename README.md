@@ -4,7 +4,7 @@
 <p> The customer has 3 options in this flow control project:-
 <br>
 <h4>A - GROUND SHIPPING</h4>
-<p>Has a small flat charge ($20) plus a rate based on the weight of the package.</p>
+<p>A small flat charge ($20) plus a rate based on the weight of the package.</p>
 
 <p>Weight of Package</p>
 <li>2 lb or less @ $1.50</li>
@@ -20,11 +20,11 @@
 
 
 <h4>B - GROUND SHIPPING PREMIUM</h4>
-<p>Has a flat charge ($125.00), but no charge for weight</p>
+<p>A flat charge ($125.00), but no charge for weight</p>
 
 
 <h4>C - DRONE SHIPPING</h4>
-<p>Has no flat charge, but the rate based on weight is triple the rate of ground shipping.</p>
+<p>No flat charge, but the rate based on weight is triple the rate of ground shipping.</p>
 
 <p>Weight of Package</p>
 <li>2 lb or less@ $4.50</li>
