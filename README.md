@@ -2,7 +2,7 @@
 <p>Carpe Diem Shipping takes the weight of a package and determines the cheapest way to ship that package.</p>
 <p> The customer has 3 options in this flow control project:-
 <br>
-<h4>GROUND SHIPPING</h4>
+<h4>A - GROUND SHIPPING</h4>
 <p>Has a small flat charge ($20) plus a rate based on the weight of the package.</p>
 
 <p>Weight of Package</p>
@@ -15,11 +15,11 @@
 <p>Note: A package that weighs 8.4 pounds should cost $53.60 to ship with normal ground shipping</p>
 
 <br>
-<h4>GROUND SHIPPING PREMIUM</h4>
+<h4>B - GROUND SHIPPING PREMIUM</h4>
 <p>Has a flat charge ($125.00), but no charge for weight</p>
 
 <br>
-<h4>DRONE SHIPPING</h4>
+<h4>C - DRONE SHIPPING</h4>
 <p>Has no flat charge, but the rate based on weight is triple the rate of ground shipping.</p>
 
 <p>Weight of Package</p>
@@ -32,10 +32,11 @@
 <p>Note: A package that weighs 1.5 pounds should cost $6.75 to ship by drone</p>
 
 <br>
+<br>
 <p><b>The output of the program will have the following format:</b></p>
 
   <ul><b>Asks: [Weight]</b></ul>
- <br>
+  
   <ul>Ground Shipping $ : [Answer]</ul>
   <ul>Ground Shipping Premimium $: [Answer]</ul>
   <ul>Drone Shipping: $: [Answer]</ul>
