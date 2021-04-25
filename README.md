@@ -1,6 +1,6 @@
 <h1>Carpe Diem Shipping</h1>
 <h3>"Seas the day" and ship that package!</h3>
-<p>Carpe Diem Shipping takes the weight of a package and determines the cheapest way to ship a package.</p>
+<p>Carpe Diem Shipping takes the weight of a package and determines the cheapest way to ship said package.</p>
 <p> The customer has 3 options in this flow control project:-
 <br>
 <h4>A - GROUND SHIPPING</h4>
