@@ -3,18 +3,18 @@
 <p> The customer has 3 options in this flow control project:-
 <br>
 <br>
-<h2>GROUND SHIPPING</h2>
+<h4>GROUND SHIPPING</h4>
 <p>Has a small flat charge ($20) plus a rate based on the weight of the package.</p>
 
-<h2>ROUND SHIPPING PREMIUM</h2>
+<h4>ROUND SHIPPING PREMIUM</h4>
 <p>Has a flat charge ($125.00), but no charge for weight</p>
 
-<h2>DRONE SHIPPING</h2>
+<h4>DRONE SHIPPING</h4>
 <p>Has no flat charge, but the rate based on weight is triple the rate of ground shipping.</p>
 <br>
 <br>
 
-<img>![image](https://depositphotos.com/71798629/stock-photo-global-shipping-concept.html)<img/>
+<img>(https://depositphotos.com/71798629/stock-photo-global-shipping-concept.html)<img/>
 
 <br>
 <br>
