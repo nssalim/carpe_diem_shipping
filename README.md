@@ -6,10 +6,13 @@
 <p>Has a small flat charge ($20) plus a rate based on the weight of the package.</p>
 
 <p>Weight of Package</p>
-<li>2 lb or less @ $4.50</li>
-<li>Over 2 lb but less than or equal to 6 lb @ 9.00</li>
-<li>Over 6 lb but less than or equal to 10 lb @ 12.00</li>
-<li>Over 10 lb @ 14.25</li>
+<li>2 lb or less @ $1.50</li>
+<li>Over 2 lb but less than or equal to 6 lb @ $3.00</li>
+<li>Over 6 lb but less than or equal to 10 lb @ $4.00</li>
+<li>Over 10 lb @ $4.75</li>
+
+
+
 
 <br>
 <p><i>Note: A package that weighs 8.4 pounds should cost $53.60 to ship with normal ground shipping</i></p>
@@ -33,7 +36,7 @@
 
 <br>
 <br>
-<p><b>The output of the program will have the following format:</b></p>
+<p><b>The program will have the following format:</b></p>
 
   <ul>Asks: [Weight]</ul>
   
@@ -43,14 +46,14 @@
 
 <br>
 <p>Example 1:</p>
-<p>For a package that weighs 4.8 lbs, <b>GROUND SHIPPING</b> is the cheapest:</p>
+<p>Output for a package that weighs 4.8 lbs, <b>GROUND SHIPPING</b> is the cheapest:</p>
 
   <ul>Ground Shipping $ 34.4</ul>
   <ul>Ground Shipping Premium $ 125.0</ul>
   <ul>Drone Shipping: $ 43.199999999999996</ul>
 
 <p>Example 2:</p>
-<p>For a package that weighs 41.5 lbs, <b>GROUND SHIPPING PREMIUM</b> is the cheapest:</p>
+<p>Output for a package that weighs 41.5 lbs, <b>GROUND SHIPPING PREMIUM</b> is the cheapest:</p>
 
   <ul>Ground Shipping $ 217.125</ul>
   <ul>Ground Shipping Premium $ 125.0</ul>
