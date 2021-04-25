@@ -36,24 +36,24 @@
 
 <br>
 <br>
-<p><b>The program will have the following format:</b></p>
+<p><i>The program will have the following format:</i></p>
 
   <ul>Asks: [Weight]</ul>
-  <p>Output</p>
+  <p>Output:</p>
   <ul>Ground Shipping $ : [Answer]</ul>
-  <ul>Ground Shipping Premimium $: [Answer]</ul>
+  <ul>Ground Shipping Premium $: [Answer]</ul>
   <ul>Drone Shipping: $: [Answer]</ul>
 
 <br>
-<p>Example 1:</p>
-<p>For a package that weighs 4.8 lbs, <b>GROUND SHIPPING</b> is the cheapest:</p>
+<p>Example 1: For a package that weighs 4.8 lbs, </p>
+<p><b>GROUND SHIPPING</b> is the cheapest:</p>
 
   <ul>Ground Shipping $ 34.4</ul>
   <ul>Ground Shipping Premium $ 125.0</ul>
   <ul>Drone Shipping: $ 43.199999999999996</ul>
 
-<p>Example 2:</p>
-<p>For a package that weighs 41.5 lbs, <b>GROUND SHIPPING PREMIUM</b> is the cheapest:</p>
+<p>Example 2: For a package that weighs 41.5 lbs, </p>
+<p><b>GROUND SHIPPING PREMIUM</b> is the cheapest:</p>
 
   <ul>Ground Shipping $ 217.125</ul>
   <ul>Ground Shipping Premium $ 125.0</ul>
