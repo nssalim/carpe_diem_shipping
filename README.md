@@ -1,4 +1,5 @@
 <h1>Carpe Diem Shipping</h1>
+<h3"Seas the day" and ship that package!</h3>
 <p>Carpe Diem Shipping takes the weight of a package and determines the cheapest way to ship that package.</p>
 <p> The customer has 3 options in this flow control project:-
 <br>
@@ -36,7 +37,7 @@
 
 <br>
 <br>
-<p><i>The program will have the following format:</i></p>
+<p>THE PROGRAM WILL HAVE THE FOLLOWING FORMAT:</p>
 
   <ul>Asks: [Weight]</ul>
   <p>Output:</p>
