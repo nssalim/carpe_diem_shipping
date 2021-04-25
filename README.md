@@ -32,27 +32,27 @@
 <p>Note: A package that weighs 1.5 pounds should cost $6.75 to ship by drone</p>
 
 <br>
-<p>The output of the program will have the following format:</p>
+<p><b>The output of the program will have the following format:</b></p>
 
   <ul><b>Asks: [Weight]</b></ul>
  <br>
-  <ul><b>Ground Shipping $ : [Answer]</b></ul>
-  <ul><b>Ground Shipping Premimium $: [Answer]</b></ul>
-  <ul><b>Drone Shipping: $: [Answer]</b></ul>
+  <ul>Ground Shipping $ : [Answer]</ul>
+  <ul>Ground Shipping Premimium $: [Answer]</ul>
+  <ul>Drone Shipping: $: [Answer]</ul>
 
 <br>
 <p>Example 1:</p>
-<p><b>For 4.8 pounds, ground shipping is the cheapest:</b></p>
-  <ul><b>Weight:  4.8</b></ul>
+<p><b>For 4.8 pounds, GROUND SHIPPING is the cheapest:</b></p>
+  <ul>Weight:  4.8</ul>
 
-  <ul>Ground Shipping $ 34.4</ul>
-  <ul>Ground Shipping Premimium $ 125.0</ul>
+  <ul><b>Ground Shipping $ 34.4</b></ul>
+  <ul>Ground Shipping Premium $ 125.0</ul>
   <ul>Drone Shipping: $ 43.199999999999996</ul>
 
 <p>Example 2:</p>
-<p><b>For 41.5 pounds, ground shipping premium is the cheapest:</b></p>
-  <ul><b>Weight:  41.5</b></ul>
+<p><b>For 41.5 pounds, GROUND SHIPPING PREMIUM is the cheapest:</b></p>
+  <ul>Weight:  41.5</ul>
 
   <ul>Ground Shipping $ 217.125</ul>
-  <ul>Ground Shipping Premimium $ 125.0</ul>
+  <ul><b>Ground Shipping Premium $ 125.0</b></ul>
   <ul>Drone Shipping: $ 591.375</ul>
