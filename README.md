@@ -1,11 +1,21 @@
 <h1>Carpe Diem Shipping</h1>
 <p>Carpe Diem Shipping takes the weight of a package and determines the cheapest way to ship that package.</p>
 <p> The customer has 3 options in this flow control project:-
-<li>Ground Shipping</li>
-<li> Ground Shipping Premium</li>
-<li>Drone Shipping</li>
+<br>
+<br>
+<h2>GROUND SHIPPING</h2>
+<p>Has a small flat charge ($20) plus a rate based on the weight of the package.</p>
 
-<img>!https://depositphotos.com/71798629/stock-photo-global-shipping-concept.html)<img/>
+<h2>ROUND SHIPPING PREMIUM</h2>
+<p>Has a flat charge ($125.00), but no charge for weight</p>
+
+<h2>DRONE SHIPPING</h2>
+<p>Has no flat charge, but the rate based on weight is triple the rate of ground shipping.</p>
+<br>
+<br>
+
+<img>![image](https://depositphotos.com/71798629/stock-photo-global-shipping-concept.html)<img/>
+
 <br>
 <br>
 <p>For 4.8 pounds, ground shipping is the cheapest:</p>
